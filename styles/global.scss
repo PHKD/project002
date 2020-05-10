@@ -1,0 +1,48 @@
+* {
+	font-family: 'Kanit', sans-serif;
+}
+
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-size: 14px;
+}
+
+body, #__nuxt, #__layout {
+	height: 100% !important;
+	box-sizing: border-box !important;
+}
+
+.fill-goods-logo {
+    width: 206px;
+    height: auto;
+    cursor: pointer;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.custom-h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.color-white {
+    color: #ffffff !important;
+}
+
+.primary-green {
+    color: #1D8649;
+}
+
+.v-messages__message {
+    margin-top: 5px;
+    line-height: normal !important;
+}
